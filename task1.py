@@ -1,3 +1,7 @@
+
+from colorama import init
+from termcolor import colored
+
 a = input ("Enter the first number: ")
 b = input ("Enter the second number: ")
 c = input ("Enter the third number ")
